@@ -30,3 +30,26 @@ background: linear-gradient(90deg, rgba(48,8,64,1) 0%, rgba(125,0,153,1) 100%, r
     display: flex;
     justify-content: space-around;
 }
+.nav .linkContato {
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.fotos {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.casa1 {
+    width: 30%;
+}
+.casa2 {
+    width: 30%;
+}
+.casa3 {
+    width: 30%;
+}
